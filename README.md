@@ -47,6 +47,6 @@ Contains three CSV files representing the websites in each opt-out strategy:
 ## 🧾 Citation
 If you use this dataset, please cite:
 
-> Cheng, B.-R., & Cheng, C.-Y. . *Robots.txt opt-out dataset (BEDC Top-100, 2024)* [Data set]. GitHub. https://github.com/yourname/robots-optout-dataset
+> Cheng, B.-R., & Cheng, C.-Y. . *Robots.txt opt-out dataset (BEDC Top-100, 2024)* [Data set]. GitHub. [https://github.com/yourname/robots-optout-dataset](https://github.com/Raycheng0629/robots_txt-optout-dataset)
 
 -
